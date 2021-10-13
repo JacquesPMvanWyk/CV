@@ -20,7 +20,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
   background: #000000;
   border-radius: 8px;
   overflow: hidden;
-  border: 2px solid rgba(255, 0, 0,);
+  border: 2px solid rgb(141, 151, 245);
   transition: 0.5s;
 }
 
@@ -79,8 +79,8 @@ h3 {
   height: 20px;
   margin: 0 10px;
   border-radius: 10px;
-  background: #ffffff;
-  box-shadow: inset 0 0 10px rgb(66, 66, 66);
+  background: #333333;
+  box-shadow: inset 0 0 10px rgb(0, 0, 0);
   overflow: hidden;
 }
 
@@ -91,7 +91,7 @@ h3 {
   width: 70%;
   height: 100%;
   border-radius: 10px;
-  background: rgb(94, 94, 94);
+  background: rgb(255, 255, 255);
   box-shadow: inset 0 0 2px rgb(138, 138, 138);
   animation: animate 4s ease-in-out forwards;
 }
